@@ -6,6 +6,8 @@
   </br>
  “早餐店的老板娘问我要什么，我想我该要肆意妄为，要志得意满，遨游山川、湖和海，要世界所有的浪漫。开个玩笑，我已经长大了， 我只要豆浆和油条，再加个鸡蛋！” 
   </br>
+  The breakfast shop owner asked what I wanted. I thought I should demand recklessness, triumph, and the freedom to roam mountains, lakes, and seas—everything romantic the world has to offer. Just kidding, I’ve grown up. I’ll just take soybean milk and deep-fried dough sticks, plus an egg!
+  </br>
 </p>
 
 <h3>Things I code with</h3>
