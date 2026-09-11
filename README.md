@@ -3,11 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI%20THERE!👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=62" />
 </div>
 
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey!+Nice+to+see+you."
-  alt="Hey! Nice to see you"/>
-</h2>
+
+<table>
+<tr>
+<td valign="middle">
+<img
+  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+  width="30"
+  alt="wave"
+/>
+</td>
+
+<td valign="middle">
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&width=600&lines=Hey!+Nice+to+see+you."
+  alt="Hey! Nice to see you"
+/>
+</td>
+</tr>
+</table>
+
 
 <p>
   I'm <b>Bhands</b>
