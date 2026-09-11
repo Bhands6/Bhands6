@@ -1,7 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
+  <h1>Welcome to my page!</h1>
+</div>
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
 <p>
-  Welcome to my page! </br>
   I'm <b>Bhands</b>
   </br>
  “早餐店的老板娘问我要什么，我想我该要肆意妄为，要志得意满，遨游山川、湖和海，要世界所有的浪漫。
