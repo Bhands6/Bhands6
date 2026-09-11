@@ -1,16 +1,16 @@
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,50:003B4D,100:00F5FF&height=180&section=header&text=BHANDS&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=CREATIVE%20DEVELOPER%20%2F%2F%20DIGITAL%20EXPERIENCE%20ENGINEER&descAlignY=58&descSize=16&descColor=8BE9FD"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=720&lines=%3E+INITIALIZING+BHANDS...;%3E+SYSTEM+ONLINE.;%3E+BUILDING+DIGITAL+EXPERIENCES.;%3E+UNREAL+%2F%2F+C%2B%2B+%2F%2F+WEB+%2F%2F+AI;%3E+CODE+%2B+DESIGN+%2B+IMAGINATION."/>
+<img
+src="./assets/bhands-hud-hero.svg"
+width="100%"
+alt="BHANDS Digital Universe"
+/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Bhands6&style=for-the-badge&color=00F5FF&label=PROFILE+SIGNAL"/>
+### `BHANDS // DIGITAL UNIVERSE`
+
+**CREATIVE DEVELOPER · DIGITAL CREATOR · TECHNOLOGY EXPLORER**
 
 </div>
 
@@ -18,333 +18,559 @@
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    B H A N D S   //   2026                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   STATUS        : ONLINE                                     ║
-║   ROLE          : CREATIVE DEVELOPER                         ║
-║   SPECIALITY    : REALTIME / WEB / AI / 3D                  ║
-║                                                              ║
-║   CORE          : C++ · UNREAL ENGINE                        ║
-║   WEB           : TYPESCRIPT · REACT · VUE                   ║
-║   EXPERIMENTS   : AI · COMPUTER VISION · WEBGL              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-## `// ABOUT_ME`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Hi, I'm Bhands.                                            │
-│                                                             │
-│  I build interactive digital experiences somewhere          │
-│  between software, graphics, music and imagination.         │
-│                                                             │
-│  I like turning strange ideas into things that actually     │
-│  run, move, react and feel alive.                            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-> 早餐店的老板娘问我要什么，我想我该要肆意妄为，
-> 要志得意满，遨游山川、湖和海，要世界所有的浪漫。
->
-> **开个玩笑，我已经长大了。**
->
-> **我只要豆浆和油条，再加个鸡蛋。**
-
----
-
-<div align="center">
-
-## `// TECHNOLOGY_MATRIX`
-
-<br>
-
-### `CORE ENGINE`
-
-<img src="https://skillicons.dev/icons?i=cpp,unreal" />
-
-<br><br>
-
-### `WEB SYSTEM`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs" />
-
-<br><br>
-
-### `DEVOPS / TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,github" />
+![Unreal Engine](https://img.shields.io/badge/UNREAL-000000?style=flat-square\&logo=unrealengine\&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square\&logo=cplusplus\&logoColor=00E5FF)
+![Unity](https://img.shields.io/badge/UNITY-000000?style=flat-square\&logo=unity\&logoColor=00E5FF)
+![Web](https://img.shields.io/badge/WEB-000000?style=flat-square\&logo=googlechrome\&logoColor=00E5FF)
+![AI](https://img.shields.io/badge/AI-000000?style=flat-square\&logo=openai\&logoColor=00E5FF)
+![3D](https://img.shields.io/badge/3D-000000?style=flat-square\&logo=blender\&logoColor=00E5FF)
 
 </div>
 
 ---
 
-## `// SYSTEM_MODULES`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01 // REALTIME`
-
-```text
-┌────────────────────────────┐
-│                            │
-│  UNREAL ENGINE             │
-│                            │
-│  ├─ C++                    │
-│  ├─ UMG                    │
-│  ├─ Media                   │
-│  ├─ Realtime Rendering     │
-│  └─ Interactive Systems    │
-│                            │
-└────────────────────────────┘
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### `02 // WEB`
-
-```text
-┌────────────────────────────┐
-│                            │
-│  CREATIVE WEB              │
-│                            │
-│  ├─ React                  │
-│  ├─ Vue                    │
-│  ├─ TypeScript             │
-│  ├─ WebGL                  │
-│  └─ Interactive UI         │
-│                            │
-└────────────────────────────┘
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03 // AI / VISION`
-
-```text
-┌────────────────────────────┐
-│                            │
-│  COMPUTER VISION           │
-│                            │
-│  ├─ OCR                    │
-│  ├─ Pose Tracking          │
-│  ├─ Face Tracking          │
-│  ├─ MediaPipe              │
-│  └─ Gesture Recognition    │
-│                            │
-└────────────────────────────┘
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04 // CREATIVE`
-
-```text
-┌────────────────────────────┐
-│                            │
-│  DIGITAL EXPERIMENTS       │
-│                            │
-│  ├─ Music                  │
-│  ├─ Particles              │
-│  ├─ 3D                     │
-│  ├─ Audio Visualization    │
-│  └─ Generative Visuals     │
-│                            │
-└────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `// PROJECT_ARCHIVE`
-
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### `MUSIC // WEB`
-
-### 🎵 Bhands Web
-
-```text
-AUDIO
-  ↓
-VISUALIZATION
-  ↓
-PARTICLES
-  ↓
-INTERACTIVE EXPERIENCE
-```
-
-<a href="https://github.com/Bhands6/Bhands_Web">
-<img src="https://img.shields.io/badge/ACCESS_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### `REALTIME // UE`
-
-### 🎮 Unreal Projects
-
-```text
-INPUT
-  ↓
-REALTIME SYSTEM
-  ↓
-VISUAL OUTPUT
-  ↓
-INTERACTION
-```
-
-<a href="https://github.com/Bhands6">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### `AI // VISION`
-
-```text
-CAMERA
-  ↓
-VISION
-  ↓
-TRACKING
-  ↓
-INTERACTION
-```
-
-**OCR · Pose · Face · Gesture**
-
-</td>
-
-<td align="center">
-
-### `CREATIVE // 3D`
-
-```text
-CODE
-  ↓
-SPACE
-  ↓
-MOTION
-  ↓
-EXPERIENCE
-```
-
-**3D · WebGL · Particles · Audio**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `// GITHUB_TELEMETRY`
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhands6&show_icons=true&hide_border=true&bg_color=05070A&title_color=00F5FF&icon_color=00F5FF&text_color=8BE9FD&ring_color=00F5FF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhands6&layout=compact&hide_border=true&bg_color=05070A&title_color=00F5FF&text_color=8BE9FD"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhands6&hide_border=true&background=05070A&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=8BE9FD&dates=5A7180"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// ACTIVITY_MONITOR`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhands6&bg_color=05070A&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=BHANDS%20ACTIVITY%20MONITOR" width="95%"/>
-
-</div>
-
----
-
-## `// CURRENT_PROCESS`
+## `// SYSTEM STATUS`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
+│                     BHANDS SYSTEM                            │
+├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%              │
-│                                                              │
-│  PROCESSING                                                  │
-│                                                              │
-│  > Building interactive digital experiences                  │
-│  > Exploring AI × 3D × Web × Unreal                         │
-│  > Experimenting with particles & generative visuals        │
-│  > Turning ideas into things that move                       │
+│  STATUS        ONLINE                                        │
+│  MODE          CREATIVE / ENGINEERING                        │
+│  DOMAIN        GAME · WEB · AI · 3D · MEDIA                 │
+│  ENGINE        UNREAL ENGINE / UNITY                         │
+│  LANGUAGE      C++ / C# / JAVASCRIPT                        │
+│  INTERFACE     DIGITAL HUD / INTERACTIVE UI                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<div align="center">
+## `// ABOUT`
 
-## `// PHILOSOPHY`
+Hi, I'm **BHANDS**.
 
-<br>
+A developer focused on the intersection of **real-time graphics, interactive applications, AI, computer vision and digital experiences**.
+
+I enjoy turning technical ideas into visual and interactive systems.
+
+My current interests include:
+
+* 🎮 Unreal Engine
+* 🧩 Unity
+* 🌐 Web / WebGL
+* 🤖 AI & Computer Vision
+* 🕺 Body Tracking
+* 👁️ Face Tracking
+* 📷 Media Processing
+* 🧠 OCR
+* 🥽 AR / XR
+* 🎨 Creative Coding
+* 🌌 Generative Visual Effects
+* 🎵 Interactive Music Experiences
+
+---
+
+## `// TECHNOLOGY MATRIX`
+
+### `REAL-TIME ENGINE`
 
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│     CODE IS NOT JUST ABOUT MAKING THINGS WORK.          │
-│                                                          │
-│     IT'S ABOUT MAKING IDEAS EXIST.                      │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+UNREAL ENGINE
+████████████████████████████████████████
+
+UNITY
+██████████████████████████████████████
+
+REAL-TIME RENDERING
+████████████████████████████████████
 ```
 
-<br>
+### `PROGRAMMING`
 
-`CODE`   ×   `DESIGN`   ×   `MUSIC`   ×   `3D`   ×   `AI`
+```text
+C++
+████████████████████████████████████████
+
+C#
+██████████████████████████████████████
+
+JAVASCRIPT
+████████████████████████████████████
+
+WEBGL
+██████████████████████████████████
+```
+
+### `AI / COMPUTER VISION`
+
+```text
+AI
+████████████████████████████████████
+
+OCR
+██████████████████████████████████
+
+POSE TRACKING
+████████████████████████████████
+
+FACE TRACKING
+██████████████████████████████
+
+MEDIA PROCESSING
+████████████████████████████
+```
+
+---
+
+## `// WHAT I BUILD`
+
+### 🎮 Interactive Applications
+
+Building real-time interactive applications with:
+
+* Unreal Engine
+* Unity
+* C++
+* C#
+* Blueprint
+* Real-time rendering
+* Interactive UI
+
+---
+
+### 🤖 AI & Computer Vision
+
+Exploring applications of AI and computer vision in interactive systems.
+
+Examples include:
+
+* OCR
+* Face Landmark Detection
+* Body Tracking
+* Gesture Recognition
+* Pose Estimation
+* Object Recognition
+* Camera-based interaction
+* Real-time media analysis
+
+---
+
+### 🕺 Digital Human / Virtual Try-On
+
+Experimenting with:
+
+```text
+CAMERA
+   ↓
+BODY TRACKING
+   ↓
+SKELETON
+   ↓
+POSE ANALYSIS
+   ↓
+VIRTUAL MODEL
+   ↓
+REAL-TIME INTERACTION
+```
+
+Combining body tracking, 3D models and real-time rendering to create interactive virtual experiences.
+
+---
+
+### 🌐 Web & WebGL
+
+Building browser-based interactive experiences with:
+
+* JavaScript
+* WebGL
+* Unity WebGL
+* WebAR
+* Mobile browser interaction
+* Camera / Media APIs
+* Interactive visual effects
+
+---
+
+### 🎵 Creative Web Experiences
+
+I also enjoy experimenting with music and visual experiences.
+
+Combining:
+
+```text
+MUSIC
+  +
+PARTICLES
+  +
+NEBULA
+  +
+HUD
+  +
+INTERACTION
+```
+
+to create immersive digital interfaces.
+
+---
+
+# `// BHANDS DIGITAL UNIVERSE`
+
+The visual identity of this profile is based on a fictional digital universe.
+
+```text
+                     BHANDS
+                       │
+             ┌─────────┴─────────┐
+             │                   │
+           CREATE              EXPLORE
+             │                   │
+       ┌─────┼─────┐       ┌─────┼─────┐
+       │     │     │       │     │     │
+      GAME   AI    WEB     3D   MEDIA  AR/XR
+       │     │     │       │     │     │
+       └─────┴─────┴───────┴─────┴─────┘
+                       │
+                  DIGITAL UNIVERSE
+```
+
+---
+
+# `// VISUAL SYSTEM`
+
+The GitHub profile uses a custom **pure SVG HUD visual system**.
+
+### Hero specification
+
+```text
+Canvas
+1600 × 620
+
+Background
+Black / Deep Space
+
+Primary Visual
+Cyan / Blue Neon Nebula
+
+Elements
+• Particle field
+• Orbital system
+• Planet
+• Energy lines
+• HUD panels
+• Grid
+• Scanlines
+• Neon borders
+• Digital interface elements
+```
+
+The Hero is implemented as a **pure SVG**, rather than embedding a PNG inside an SVG container.
+
+Therefore it can be:
+
+* rendered directly by browsers
+* stored directly in the repository
+* displayed inside GitHub README
+* version controlled with Git
+* edited as vector graphics
+* scaled without rasterization artifacts
+
+---
+
+# `// PROJECT STRUCTURE`
+
+Recommended repository structure:
+
+```text
+your-repo/
+│
+├── README.md
+│
+└── assets/
+    │
+    └── bhands-hud-hero.svg
+```
+
+The Hero SVG should be placed at:
+
+```text
+assets/bhands-hud-hero.svg
+```
+
+Then referenced from the README:
+
+```html
+<div align="center">
+
+<img
+  src="./assets/bhands-hud-hero.svg"
+  width="100%"
+  alt="BHANDS Digital Universe"
+/>
+
+</div>
+```
+
+---
+
+# `// SVG DESIGN`
+
+The Hero uses a layered SVG composition.
+
+```text
+BACKGROUND
+    │
+    ├── Deep Space
+    │
+    ├── Nebula
+    │
+    ├── Particle Field
+    │
+    └── Grid
+         │
+         ▼
+ORBITAL SYSTEM
+    │
+    ├── Planet
+    ├── Orbit Rings
+    ├── Energy Lines
+    └── Particle Trails
+         │
+         ▼
+HUD INTERFACE
+    │
+    ├── Left Panel
+    ├── Right Panel
+    ├── Top Information
+    ├── Bottom Information
+    └── Digital Indicators
+         │
+         ▼
+TYPOGRAPHY
+    │
+    ├── BHANDS
+    ├── CREATIVE DEVELOPER
+    ├── UNREAL
+    ├── C++
+    ├── WEB
+    ├── AI
+    └── 3D
+```
+
+---
+
+# `// CORE STACK`
+
+<div align="center">
+
+| Category    | Technologies                     |
+| ----------- | -------------------------------- |
+| Game Engine | Unreal Engine                    |
+| Game Engine | Unity                            |
+| Programming | C++                              |
+| Programming | C#                               |
+| Web         | JavaScript                       |
+| Web         | WebGL                            |
+| AI          | Computer Vision                  |
+| AI          | OCR                              |
+| Tracking    | Body Tracking                    |
+| Tracking    | Face Tracking                    |
+| Graphics    | 3D / Real-Time Rendering         |
+| Media       | Video / Audio / Image Processing |
+| AR/XR       | WebAR / XR                       |
+
+</div>
+
+---
+
+# `// CURRENT EXPLORATION`
+
+```text
+[01] REAL-TIME GRAPHICS
+       │
+       ├── Unreal Engine
+       ├── Unity
+       └── Shader / Material
+
+[02] COMPUTER VISION
+       │
+       ├── OCR
+       ├── Face Tracking
+       ├── Body Tracking
+       └── Gesture Recognition
+
+[03] WEB
+       │
+       ├── WebGL
+       ├── WebAR
+       ├── Browser Camera
+       └── Interactive UI
+
+[04] CREATIVE TECHNOLOGY
+       │
+       ├── Generative Visuals
+       ├── Particle Systems
+       ├── Music Visualization
+       └── Digital HUD
+
+[05] AI
+       │
+       ├── AI Assisted Development
+       ├── Computer Vision
+       └── Intelligent Interaction
+```
+
+---
+
+# `// PHILOSOPHY`
+
+> **Technology should not only solve problems.
+> It should also create experiences.**
+
+I like projects that sit somewhere between:
+
+```text
+ENGINEERING
+     +
+DESIGN
+     +
+VISUALS
+     +
+INTERACTION
+```
+
+The goal is not simply to make something work.
+
+The goal is to make it:
+
+```text
+FUNCTIONAL
+     ↓
+INTERACTIVE
+     ↓
+VISUAL
+     ↓
+MEMORABLE
+```
+
+---
+
+# `// WORKFLOW`
+
+My typical development workflow:
+
+```text
+IDEA
+ │
+ ▼
+PROTOTYPE
+ │
+ ▼
+TECHNICAL VALIDATION
+ │
+ ▼
+REAL-TIME IMPLEMENTATION
+ │
+ ▼
+VISUAL POLISH
+ │
+ ▼
+OPTIMIZATION
+ │
+ ▼
+DEPLOYMENT
+```
+
+---
+
+# `// CREATIVE LOOP`
+
+```text
+        ┌───────────────┐
+        │     IDEA      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │   EXPERIMENT  │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │   PROTOTYPE   │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │   BUILD       │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │   POLISH      │
+        └───────┬───────┘
+                │
+                └───────────────┐
+                                │
+                                ▼
+                             REPEAT
+```
+
+---
+
+# `// FEATURED AREAS`
+
+<div align="center">
+
+### 🎮 GAME DEVELOPMENT
+
+Real-time interactive experiences using Unreal Engine and Unity.
+
+### 🤖 AI / CV
+
+OCR, body tracking, face tracking and intelligent interaction.
+
+### 🌐 WEB
+
+WebGL, WebAR and browser-based interactive applications.
+
+### 🎨 CREATIVE CODING
+
+Particles, shaders, generative graphics and digital interfaces.
+
+### 🌌 DIGITAL EXPERIENCES
+
+Combining technology, design, sound and interaction.
+
+</div>
+
+---
+
+# `// GITHUB`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-BHANDS-000000?style=for-the-badge\&logo=github\&logoColor=00E5FF)](https://github.com/Bhands6)
+
+</div>
+
+---
+
+# `// CONNECT`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║                  BHANDS ONLINE                       ║
+║                                                      ║
+║       BUILD  ·  CREATE  ·  EXPLORE  ·  REPEAT       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -352,36 +578,12 @@ EXPERIENCE
 
 <div align="center">
 
-## `// CONNECT`
+### `BHANDS // DIGITAL UNIVERSE`
+
+**BUILD THE FUTURE · ONE SYSTEM AT A TIME**
 
 <br>
 
-<a href="https://github.com/Bhands6">
-<img src="https://img.shields.io/badge/GITHUB-05070A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<br><br>
-
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│   BHANDS // DIGITAL WORKSPACE        │
-│                                      │
-│   [ SYSTEM ONLINE ]                  │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-<br>
-
-`© 2026 BHANDS // KEEP BUILDING.`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:003B4D,100:05070A&height=120&section=footer"/>
+`[ SYSTEM ONLINE ]`
 
 </div>
