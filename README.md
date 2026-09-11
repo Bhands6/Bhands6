@@ -13,7 +13,7 @@
     alt="wave"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&width=600&lines=Hey!+Nice+to+see+you."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&width=400&lines=Hey!+Nice+to+see+you."
     alt="Hey! Nice to see you"
   />
 </div>
