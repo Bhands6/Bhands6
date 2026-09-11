@@ -5,17 +5,16 @@
 
 
 
-<div style="white-space: nowrap;">
+<div style="white-space: nowrap; display: flex; align-items: center; gap: 8px;">
   <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
     width="30"
+    height="30"
     alt="wave"
-    style="display: inline-block; vertical-align: middle; margin-right: 8px;"
   />
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&width=600&lines=Hey!+Nice+to+see+you."
     alt="Hey! Nice to see you"
-    style="display: inline-block; vertical-align: middle;"
   />
 </div>
 
