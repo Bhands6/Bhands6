@@ -4,24 +4,14 @@
 </div>
 
 
-<table>
-<tr>
-<td valign="middle">
 <img
   src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
   width="30"
-  alt="wave"
-/>
-</td>
+  alt="wave"/>
 
-<td valign="middle">
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&width=600&lines=Hey!+Nice+to+see+you."
-  alt="Hey! Nice to see you"
-/>
-</td>
-</tr>
-</table>
+  alt="Hey! Nice to see you"/>
 
 
 <p>
