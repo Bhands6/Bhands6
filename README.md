@@ -3,16 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI%20THERE!👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=62" />
 </div>
 
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey!+Nice+to+see+you.;Welcome+to+my+profile!;BHANDS+%2F%2F+DIGITAL+UNIVERSE"
-  alt="Typing SVG"
-/>
-
-</div>
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey!+Nice+to+see+you."
+  alt="Hey! Nice to see you"/>
+</h2>
 
 <p>
   I'm <b>Bhands</b>
