@@ -3,7 +3,7 @@
   <!-- 旧波浪横幅，想换回来时删除下面的 banner img，取消这行注释即可：
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI%20THERE!👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=62" />
   -->
-  <img src="./assets/profile-banner.png" width="100%" alt="Bhands - Zhuhai night skyline with Fisher Girl, Sun Moon Shells and HZMB Bridge" />
+  <img src="./assets/zhuhai.png" width="100%" alt="Bhands - Zhuhai night skyline with Fisher Girl, Sun Moon Shells and HZMB Bridge" />
 </div>
 
 
