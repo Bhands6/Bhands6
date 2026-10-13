@@ -36,5 +36,12 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  
+
 </p>
+
+<!-- 贪吃蛇吃贡献图动画：由 .github/workflows/contribution-snake.yml 每天自动生成到 output 分支 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhands6/Bhands6/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhands6/Bhands6/output/github-contribution-grid-snake.svg" />
+  <img alt="Bhands6 contribution snake" src="https://raw.githubusercontent.com/Bhands6/Bhands6/output/github-contribution-grid-snake.svg" />
+</picture>
